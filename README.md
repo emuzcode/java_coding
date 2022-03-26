@@ -17,3 +17,5 @@
 ##### Sample3 = Input 10 pieces separated by a single-byte space
 
 ##### Sample4 = Input an integer of 10 lines
+
+##### Sample5 = Input 10 integers separated by half-width spaces
