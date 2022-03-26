@@ -1,4 +1,4 @@
-//[Line input] Input 10 lines
+//Input 10 lines
 
 import java.util.*;
 
