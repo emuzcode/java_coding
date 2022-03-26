@@ -4,4 +4,4 @@
 
 ### standard_input
 
-##### Sample1 (//[Line input] Input 10 lines)
+##### Sample1 = Input 10 lines
