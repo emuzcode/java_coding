@@ -25,3 +25,6 @@
 ##### Sample7 = Input of N strings given in the first line
 
 ##### Sample8 = Input of N real numbers given in the first line
+
+##### Sample9 = Choose from a pair of strings and integers
+
