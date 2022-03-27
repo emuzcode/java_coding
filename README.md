@@ -21,3 +21,5 @@
 ##### Sample5 = Input 10 integers separated by half-width spaces
 
 ##### Sample6 = Input of N integers given in the first line
+
+##### Sample7 = Input of N strings given in the first line
