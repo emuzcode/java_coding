@@ -8,7 +8,7 @@
 
 [Java SE 17 & JDK 17](https://docs.oracle.com/javase/jp/17/docs/api/index.html)
 
-### standard_input
+## standard_input
 
 ##### Sample1 = Input 10 lines
 
@@ -29,3 +29,7 @@
 ##### Sample9 = Choose from a pair of strings and integers
 
 ##### Sample10 = Input an integer column with a different number of elements for each row
+
+## standard_output
+
+##### Sample1 = Output of 100 lines
