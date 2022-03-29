@@ -37,3 +37,5 @@
 ##### Sample2 = Output 100 numbers
 
 ##### Sample3 = Output 10 input strings
+
+##### Sample4 = Output within 10 lines
