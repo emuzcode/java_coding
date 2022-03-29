@@ -35,3 +35,5 @@
 ##### Sample1 = Output of 100 lines
 
 ##### Sample2 = Output 100 numbers
+
+##### Sample3 = Output 10 input strings
