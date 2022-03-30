@@ -39,3 +39,5 @@
 ##### Sample3 = Output 10 input strings
 
 ##### Sample4 = Output within 10 lines
+
+##### Sample5 = Output large numbers every 3 digits, separated by commas
