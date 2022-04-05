@@ -41,3 +41,5 @@
 ##### Sample4 = Output within 10 lines
 
 ##### Sample5 = Output large numbers every 3 digits, separated by commas
+
+##### Sample6 = 九九の表
