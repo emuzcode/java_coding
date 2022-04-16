@@ -44,4 +44,6 @@
 
 ##### Sample6 = 九九の表
 
-##### Sample6b = Output of N * N multiplication table
+##### Sample6b = Output of N \* N multiplication table
+
+##### Sample6c = Output of a two-dimensional array with indefinite length and values ​​for all rows
